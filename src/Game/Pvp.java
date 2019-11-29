@@ -1,7 +1,6 @@
 package Game;
 
 public class Pvp extends Game {
-    private int numOfSuns;
 
     public void showHand(){
 

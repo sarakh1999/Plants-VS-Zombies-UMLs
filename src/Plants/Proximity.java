@@ -1,3 +1,5 @@
+package Plants;
+
 import Plants.Plants;
 
 public class Proximity extends Plants {

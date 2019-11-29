@@ -1,9 +1,11 @@
+package Plants;
+
 import Plants.Plants;
 
-public class ScaredyShroom extends Plants {
+public class Shooter extends Plants {
+    private boolean catapult;
     private int quantity;
     private int turn;
     private int defaultTurn;
-    private int distance;
     private Pea pea;
 }

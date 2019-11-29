@@ -1,6 +1,6 @@
 package Menus;
 
-public class MainMenu {
+public class MainMenu extends Menu {
 
     public void Paly(){
 
